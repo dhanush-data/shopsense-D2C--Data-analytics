@@ -1,4 +1,4 @@
-# 🛍️ ShopSense Product Analytics
+# 🛍️ ShopSense Data Analytics
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-orange)
 
