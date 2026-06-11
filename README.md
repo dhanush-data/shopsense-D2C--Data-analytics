@@ -65,4 +65,4 @@ per the source dataset.)*
 | Phase | Status |
 |-------|--------|
 | Power BI Dashboard | ✅ Complete |
-| GitHub + LinkedIn Post | ✅ Complete |
+| GitHub | ✅ Complete |
