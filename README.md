@@ -18,9 +18,7 @@ per the source dataset.)*
 4. What is the Average Revenue Per User (ARPU)?
 5. Which product categories drive the most conversions?
 
-## 🔑 Key Findings (TL;DR)
-
-> Full write-up in [`reports/executive_summary.md`](reports/executive_summary.md).
+## 🔑 Key Findings
 
 - **The funnel leaks at the top, not at checkout.** Only **24.9%** of viewers add to cart and just **6.9%** ever purchase — the biggest loss is awareness→intent.
 - **Cart abandonment is the #1 revenue leak.** **72.5%** of users who add to cart never buy.
@@ -57,27 +55,10 @@ per the source dataset.)*
 
 ## 📈 Dataset
 
-- **Source:** Public GA4-style ecommerce behavioral events (cosmetics retailer), framed here as the "ShopSense" D2C case
+- **Source:** GA4-style ecommerce behavioral events (cosmetics retailer), framed here as the "ShopSense" D2C case
 - **Size:** ~20.7 million events across 5 months (Oct 2019 – Feb 2020)
 - **Events:** `view` → `cart` → `remove_from_cart` → `purchase`
 - **Currency:** USD (as per source data)
-
-## 📸 Key Visualizations
-
-### Monthly Revenue Trend
-![Revenue](dashboards/screenshots/01_monthly_revenue.png)
-
-### Conversion Funnel
-![Funnel](dashboards/screenshots/02_funnel_chart.png)
-
-### User Segmentation
-![Segments](dashboards/screenshots/04_user_segments.png)
-
-### Hourly Conversion Rate
-![Hourly](dashboards/screenshots/05_hourly_conversion.png)
-
-### Top Brands by Revenue
-![Brands](dashboards/screenshots/06_top_brands.png)
 
 ## 🚧 Project Status
 
