@@ -14,10 +14,9 @@ per the source dataset.)*
 
 1. Where exactly are users dropping off in the purchase funnel?
 2. What is our Day 1, Day 7, and Day 30 retention rate?
-3. Which monthly user cohorts generate the most revenue?
-4. What is the Monthly Active User (MAU) trend over 5 months?
-5. What is the Average Revenue Per User (ARPU)?
-6. Which product categories drive the most conversions?
+3. What is the Monthly Active User (MAU) trend over 5 months?
+4. What is the Average Revenue Per User (ARPU)?
+5. Which product categories drive the most conversions?
 
 ## 🔑 Key Findings (TL;DR)
 
